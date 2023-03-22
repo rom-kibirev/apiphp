@@ -1,0 +1,36 @@
+{
+  "company":{
+    "id":7,
+    "name":"ООО \"СЭТЛ ГРУПП\"1",
+    "type":2,
+    "legal_address":"г Санкт-Петербург, Ушаковская наб, д 3 к 1 стр 1, офис 509А",
+    "postal_address":"г Санкт-Петербург, Ушаковская наб, д 3 к 1 стр 1, офис 509А",
+    "postal_code":"",
+    "kpp":"781401001",
+    "inn":"7810245481",
+    "ogrn":"1027804904445",
+    "okpo":"57903561",
+    "bank":"Bank",
+    "settlement_account":"12345678901234567890",
+    "correspondent_account":"12345678901234567890",
+    "bik":"123456789",
+    "director":"Изак Ян Леонидович",
+    "phone":"+7(999)9999999",
+    "basis":"Sobstv",
+    "email":"depositor@tester.ru",
+    "admin_email":"administrator@test.ru",
+    "created_at":"2023-03-21T16:50:50.352460Z",
+    "updated_at":"2023-03-21T16:50:50.352593Z"},
+  "user":{
+    "email":"depositor@tester.ru",
+    "phone":"+7(999)9999999",
+    "full_name":"Изак Ян Леонидович",
+    "company":7,
+    "password":"pbkdf2_sha256$390000$BKTHoY6rQFNrX9MzEuSHhU$6P35B9kfilhIuAq3R271F1NtOqgtcBn/EIQXjCe41eI="
+  },
+  "tokens":{
+    "refresh":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3OTUwMzg1MCwiaWF0IjoxNjc5NDE3NDUwLCJqdGkiOiIyMjFkMDAxM2I0Y2E0MzU1ODY0YTI4OWM1NzY2N2I0YyIsInVzZXJfaWQiOjZ9.HBukIt7H7kDaxYG5PNjY3fZ9wSTiscmJ-RM9aUjHMa8",
+    "access":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjc5NDI0NjUwLCJpYXQiOjE2Nzk0MTc0NTAsImp0aSI6ImEzM2M5NDM0N2Q5NTQ1Yzg4MWI4N2QxNjVlN2M1ZDM4IiwidXNlcl9pZCI6Nn0.RzO24UaGE9q06NTrxnXXPfCFz5ak373N0q14Mw_d67U"
+  }
+}
+
